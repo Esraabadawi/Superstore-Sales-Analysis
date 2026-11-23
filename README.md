@@ -27,7 +27,7 @@ Tracks high-level commercial health, YoY monthly seasonality, category/regional 
 ![Executive Overview Dashboard](Overview.png)
 
 ### Page 2: Profitability & Operational Diagnostics
-Isolates margin leaks across all 17 sub-categories, discount tiers, top/bottom performing states, delivery speeds, and high-volume SKUs.
+Isolates margin leaks across all 17 sub-categories, discount tiers, top/bottom performing states, delivery speeds, loss distribution by customer segment.
 
 ![Profitability Diagnostics Dashboard](Profitability.png)
 
